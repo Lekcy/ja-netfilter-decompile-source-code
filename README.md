@@ -4,7 +4,7 @@ Link tải mã nguồn ja-netfilter và plugins: https://drive.google.com/file/d
 
 Pw giải nén: lekcy
 
-![Hình ảnh minh họa trên Eclipse](./decompile.jpg)
+![Hình ảnh minh họa trên Eclipse](./decompile.png)
 
 ![Demo](./license.png)
 
