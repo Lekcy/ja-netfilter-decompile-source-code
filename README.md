@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1yYBtTpbEmTjWlfLPl84hcUQCMIiYJEjQ/view?usp=shari
 
 ![DataGrip](./datagrip.png)
 
-To DataGrip + DataSpell: Download (./jbagent-0.0.1.jar) to same folder as ja-netfilter.jar on your local PC
+To DataGrip + DataSpell: Download jbagent-0.0.1.jar to same folder as ja-netfilter.jar on your local PC
 
 ![Edit file vmoptions to unlock](./vmoptions.png)
 
