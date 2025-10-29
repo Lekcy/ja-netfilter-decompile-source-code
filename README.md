@@ -5,8 +5,10 @@ https://drive.google.com/file/d/1yYBtTpbEmTjWlfLPl84hcUQCMIiYJEjQ/view?usp=shari
 
 ![DataGrip](./datagrip.png) ![DataSpell](./dataspell.png)
 
-To DataGrip + DataSpell: Download jbagent-0.0.1.jar to same folder as ja-netfilter.jar on your local PC
-Edit .vmoptions file of DataGrip and DataSpell point to jbagent-0.0.1.jar
+To DataGrip + DataSpell: 
+- Download jbagent-0.0.1.jar to same folder as ja-netfilter.jar on your local PC
+- Edit .vmoptions file of DataGrip and DataSpell point to jbagent-0.0.1.jar
+- Download .key files accordingly and paste
 
 ![Edit file vmoptions to unlock](./vmoptions.png)
 
